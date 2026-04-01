@@ -13,7 +13,7 @@ class Solution{
                 left+=1;
                 nums[left] = nums[j];
             }; 
-       }
+       } 
        return left+1;
     }
 };
